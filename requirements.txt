@@ -1,24 +1,25 @@
-# requirements.txt - m“i tru?ng t¡nh to n cho b…i t?p AIDEOM-VN
+# requirements.txt - mâ€œi tru?ng tÂ¡nh toÂ n cho bâ€¦i t?p AIDEOM-VN
 # Khoa h?c d? li?u co b?n
 numpy>=1.24
 pandas>=2.0
 scipy>=1.10
 matplotlib>=3.7
 seaborn>=0.12
-# T?i uu h¢a tuy?n t¡nh & phi tuy?n
+# T?i uu hÂ¢a tuy?n tÂ¡nh & phi tuy?n
 pulp>=2.7
 cvxpy>=1.4
 pyomo>=6.6
-# T?i uu da m?c tiˆu & ti?n h¢a
+# T?i uu da m?c tiË†u & ti?n hÂ¢a
 pymoo>=0.6.1
 # H?c tang cu?ng (Reinforcement Learning)
 gymnasium>=0.29
 stable-baselines3>=2.1
 torch>=2.0
-# Dashboard & tr?c quan h¢a
+# Dashboard & tr?c quan hÂ¢a
 streamlit>=1.28
 plotly>=5.17
-# Ti?n ¡ch
+# Ti?n Â¡ch
 tqdm>=4.65
 openpyxl>=3.1
 jupyterlab>=4.0
+highspy==1.14.0
