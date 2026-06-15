@@ -1,0 +1,13 @@
+--- KẾT QUẢ KỊCH BẢN TỰ DO - KHÔNG BẮT BUỘC P14 (5.5.B) ---
+1. Các dự án được chọn: P2, P4, P5, P6, P8, P9, P10, P12, P15
+2. Tổng chi phí đầu tư: 59,700 tỷ VND
+3. Tổng lợi ích (Z*):   116,300 tỷ VND
+4. NPV biên (Z*/chi phí): 1.9481
+
+--- SO SÁNH ĐỐI CHIẾU CHI TIẾT ---
+Hạng mục                  | Bắt buộc P14 (Gốc)        | Tự do (Bỏ P14)           
+-------------------------------------------------------------------------------------
+Tổng lợi ích (Z*)         |                   115,400 |                   116,300
+Tổng chi phí              |                    59,700 |                    59,700
+NPV biên (Hiệu quả)       |                    1.9330 |                    1.9481
+Số lượng dự án            |                         9 |                         9

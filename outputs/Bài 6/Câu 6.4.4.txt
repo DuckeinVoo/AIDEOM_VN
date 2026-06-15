@@ -1,0 +1,9 @@
+--- KẾT QUẢ SO SÁNH XẾP HẠNG TOPSIS THEO 2 BỘ TRỌNG SỐ ---
+
+              Vùng kinh tế  Điểm (AHP)  Hạng (AHP)  Điểm (Mặc định)  Hạng (Mặc định)   Đánh giá
+               Đông Nam Bộ    0.950380           1         0.940152                1 Giữ nguyên
+       Đồng bằng sông Hồng    0.887936           2         0.898133                2 Giữ nguyên
+Bắc Trung Bộ + DH Trung Bộ    0.364336           3         0.359720                3 Giữ nguyên
+   Đồng bằng sông Cửu Long    0.181576           4         0.171038                4 Giữ nguyên
+Trung du miền núi phía Bắc    0.089748           5         0.099286                5 Giữ nguyên
+                Tây Nguyên    0.022443           6         0.031216                6 Giữ nguyên

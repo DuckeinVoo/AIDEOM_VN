@@ -1,0 +1,19 @@
+--- KẾT QUẢ PHƯƠNG ÁN BAO TRÙM NHẤT (MIN F2 - PHÂN TÍCH CÂU 7.5) ---
+
+1. GIÁ TRỊ CÁC MỤC TIÊU CHIẾN LƯỢC ĐẠT ĐƯỢC:
+- Tăng trưởng GDP đóng góp: 47982.74 tỷ VND
+- Chỉ số bất bình đẳng (MAD): 798.9302
+- Tổng phát thải CO2: 3429.50 đơn vị
+- Rủi ro an ninh dữ liệu ròng: -2147.3265
+
+2. MA TRẬN PHÂN BỔ NGÂN SÁCH TỐI ƯU (tỷ VND):
+                      Hạ tầng (I)  Chuyển đổi số (D)  Trí tuệ nhân tạo (AI)  Nhân lực (H)
+Vùng 1 (NMM)             3.285414        7718.660562              57.464469    261.907876
+Vùng 2 (ĐBSH)          374.760129        2029.409727             129.983855   5157.708047
+Vùng 3 (BTB&DHMT)      257.493888        2633.185134            1942.491694   3258.798897
+Vùng 4 (Tây Nguyên)      1.226405       10681.301072              15.221073     16.393744
+Vùng 5 (Đông Nam Bộ)    70.528527           0.000724            2610.267482   4374.457889
+Vùng 6 (ĐBSCL)          12.853707        4778.075359            1047.749271   2482.567400
+
+------------------------------------------------------------
+Ghi chú: Đây là phương án ưu tiên công bằng vùng miền (S4) trong tập Pareto.

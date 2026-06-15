@@ -1,0 +1,6 @@
+--- KẾT QUẢ TỐI ƯU CÓ HIỆU ỨNG CỘNG HƯỞNG (5.5.c) ---
+1. Các dự án được chọn: P5, P6, P8, P9, P12, P13, P14, P15
+2. Kích hoạt cộng hưởng (P8 & P13): CÓ
+3. Tổng chi phí đầu tư: 60,300 tỷ VND
+4. Tổng lợi ích (Z* bao gồm cộng hưởng): 120,000 tỷ VND
+5. NPV biên (Z*/chi phí): 1.9900

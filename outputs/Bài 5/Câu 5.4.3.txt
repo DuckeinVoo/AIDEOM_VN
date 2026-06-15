@@ -1,0 +1,5 @@
+--- KẾT QUẢ KỊCH BẢN REDUNDANCY P1 & P2 (5.4.3) ---
+1. Các dự án được chọn: P1, P2, P4, P8, P9, P12, P14, P15
+2. Tổng chi phí đầu tư: 59,300 tỷ VND
+3. Tổng lợi ích (Z*):   113,300 tỷ VND
+4. NPV biên (Z*/chi phí): 1.9106

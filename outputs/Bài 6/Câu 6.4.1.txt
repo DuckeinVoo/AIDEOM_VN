@@ -1,0 +1,8 @@
+--- KẾT QUẢ XẾP HẠNG TOPSIS 6 VÙNG KINH TẾ (CÂU 6.4.1) ---
+              Vùng kinh tế  Điểm TOPSIS (Ci*)  Xếp hạng
+               Đông Nam Bộ           0.940152         1
+       Đồng bằng sông Hồng           0.898133         2
+Bắc Trung Bộ + DH Trung Bộ           0.359720         3
+   Đồng bằng sông Cửu Long           0.171038         4
+Trung du miền núi phía Bắc           0.099286         5
+                Tây Nguyên           0.031216         6

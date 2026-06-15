@@ -1,0 +1,11 @@
+--- SO SÁNH KẾT QUẢ XẾP HẠNG TOPSIS: CHUYÊN GIA (6.4.1) VS ENTROPY (6.4.2) ---
+Trọng số Entropy tính được: [0.0787482  0.41509236 0.05973829 0.13904714 0.06278308 0.23605506
+ 0.00734709 0.00118879]
+
+              Vùng kinh tế  Hạng (Chuyên gia 6.4.1)  Hạng (Entropy 6.4.2)  Điểm Ci* (6.4.1)  Điểm Ci* (6.4.2)
+       Đồng bằng sông Hồng                        2                     1          0.898133          0.968977
+               Đông Nam Bộ                        1                     2          0.940152          0.920288
+Bắc Trung Bộ + DH Trung Bộ                        3                     3          0.359720          0.361901
+Trung du miền núi phía Bắc                        5                     4          0.099286          0.124793
+   Đồng bằng sông Cửu Long                        4                     5          0.171038          0.089692
+                Tây Nguyên                        6                     6          0.031216          0.011642

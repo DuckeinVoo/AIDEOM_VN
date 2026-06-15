@@ -1,0 +1,20 @@
+--- KẾT QUẢ NGHIỆM THỎA HIỆP TOPSIS (CÂU 7.4.3) ---
+Trọng số: Tăng trưởng(0.4), Bao trùm(0.25), Môi trường(0.2), An ninh(0.15)
+
+1. GIÁ TRỊ CÁC MỤC TIÊU CHIẾN LƯỢC ĐẠT ĐƯỢC:
+- Tăng trưởng GDP đóng góp: 48254.45 tỷ VND
+- Chỉ số bất bình đẳng (MAD): 954.5018
+- Tổng phát thải CO2: 1353.81 đơn vị
+- Rủi ro an ninh dữ liệu ròng: -4913.5043
+
+2. MA TRẬN PHÂN BỔ NGÂN SÁCH TỐI ƯU (tỷ VND):
+                      Hạ tầng (I)  Chuyển đổi số (D)  Trí tuệ nhân tạo (AI)  Nhân lực (H)
+Vùng 1 (NMM)             1.105052        7718.782153              54.345483    649.179951
+Vùng 2 (ĐBSH)          314.101047        2021.565099             131.513373   5021.116529
+Vùng 3 (BTB&DHMT)       82.001055        2553.976215             784.596763   5184.623478
+Vùng 4 (Tây Nguyên)      0.714698       10681.077852              14.293024     74.071524
+Vùng 5 (Đông Nam Bộ)    80.548333           0.002074             932.396690   6082.179901
+Vùng 6 (ĐBSCL)          34.899617        4102.798403              61.503509   3289.131880
+
+------------------------------------------------------------
+Hệ số tương quan gần gũi lý tưởng (C*): 0.8748

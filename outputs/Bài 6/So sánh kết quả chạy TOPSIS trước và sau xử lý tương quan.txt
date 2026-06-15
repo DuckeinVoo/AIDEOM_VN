@@ -1,0 +1,7 @@
+              Vùng kinh tế  Hạng Euclide (6.4.1)  Hạng Mahalanobis  Điểm Euclide  Điểm Mahalanobis
+               Đông Nam Bộ                     1                 1      0.940152          0.722623
+       Đồng bằng sông Hồng                     2                 2      0.898133          0.605350
+Bắc Trung Bộ + DH Trung Bộ                     3                 3      0.359720          0.576211
+                Tây Nguyên                     6                 4      0.031216          0.480329
+   Đồng bằng sông Cửu Long                     4                 5      0.171038          0.460203
+Trung du miền núi phía Bắc                     5                 6      0.099286          0.352711

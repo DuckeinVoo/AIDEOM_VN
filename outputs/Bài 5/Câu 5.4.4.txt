@@ -1,0 +1,6 @@
+--- KẾT QUẢ TỐI ƯU HÓA LỢI ÍCH KỲ VỌNG CÓ RỦI RO (5.4.4) ---
+1. Các dự án được chọn: P2, P3, P5, P6, P7, P12, P14, P15
+2. Tổng chi phí đầu tư: 58,800 tỷ VND
+3. Lợi ích kỳ vọng (E[Z]): 91,285.00 tỷ VND
+4. Tổng lợi ích danh định (NPV gốc): 111,200 tỷ VND
+5. NPV biên kỳ vọng (E[Z]/chi phí): 1.5525

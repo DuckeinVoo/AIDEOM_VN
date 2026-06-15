@@ -1,0 +1,19 @@
+--- KẾT QUẢ PHƯƠNG ÁN TĂNG TRƯỞNG CAO NHẤT (PHÂN TÍCH CÂU 7.4.4) ---
+
+1. GIÁ TRỊ CÁC MỤC TIÊU CHIẾN LƯỢC ĐẠT ĐƯỢC:
+- Tăng trưởng GDP đóng góp: 51247.42 tỷ VND
+- Chỉ số bất bình đẳng (MAD): 1856.1396
+- Tổng phát thải CO2: 4525.90 đơn vị
+- Rủi ro an ninh dữ liệu ròng: -1465.2525
+
+2. MA TRẬN PHÂN BỔ NGÂN SÁCH TỐI ƯU (tỷ VND):
+                      Hạ tầng (I)  Chuyển đổi số (D)  Trí tuệ nhân tạo (AI)  Nhân lực (H)
+Vùng 1 (NMM)            64.490832        7718.766458               5.377318   2571.452253
+Vùng 2 (ĐBSH)          319.743461        1960.585620            3892.137142   2066.307962
+Vùng 3 (BTB&DHMT)       49.430455        1578.417448             672.070422   2850.291362
+Vùng 4 (Tây Nguyên)      5.971851       10664.627169              15.229077   1110.537255
+Vùng 5 (Đông Nam Bộ)     1.453285           0.002053            2494.755053   4249.881430
+Vùng 6 (ĐBSCL)         721.897950        3403.842193              13.008571   3333.823712
+
+------------------------------------------------------------
+Ghi chú: Đây là phương án ưu tiên hiệu quả tăng trưởng thuần túy trong tập Pareto.

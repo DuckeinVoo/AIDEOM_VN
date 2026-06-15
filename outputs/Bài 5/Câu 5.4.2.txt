@@ -1,0 +1,5 @@
+--- KẾT QUẢ TỐI ƯU LỰA CHỌN DỰ ÁN KHI NỚI NGÂN SÁCH LÊN 100K (5.4.2) ---
+1. Các dự án được chọn: P2, P5, P7, P8, P9, P10, P12, P14, P15
+2. Tổng chi phí đầu tư: 59,700 tỷ VND
+3. Tổng lợi ích (Z*):   115,400 tỷ VND
+4. NPV biên (Z*/chi phí): 1.9330

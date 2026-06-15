@@ -1,0 +1,15 @@
+--- PHÂN TÍCH CHI PHÍ CƠ HỘI (CÂU 7.4.4) ---
+
+1. Nghiệm Tăng trưởng cao nhất đạt được:
+   - Tăng trưởng: 51247.42 tỷ VND
+   - Bất bình đẳng (MAD): 1856.1396
+   - Phát thải CO2: 4525.90
+
+2. So sánh hiệu quả với Nghiệm Thỏa hiệp (TOPSIS):
+   - Tăng trưởng kinh tế đổi lại tăng thêm: 6.20%
+   - Mức hi sinh về Phát triển Bao trùm (Bất bình đẳng tăng): 94.46%
+   - Mức hi sinh về Môi trường (Phát thải CO2 tăng): 234.31%
+------------------------------------------------------------
+NHẬN XÉT CHÍNH SÁCH:
+- Việc đánh đổi lấy tăng trưởng GDP tối đa gây ra một 'chi phí cơ hội' quá đắt
+  về mặt môi trường so với lợi ích kinh tế thu về, phá vỡ cam kết COP26.

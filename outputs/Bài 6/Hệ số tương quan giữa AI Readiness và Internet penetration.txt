@@ -1,0 +1,4 @@
+--- KẾT QUẢ XÉT TƯƠNG QUAN GIỨA AI READINESS VÀ INTERNET PENETRATION (CÂU 6.5.c) ---
+Tiêu chí: AI Readiness và Internet penetration
+Hệ số tương quan Pearson (r): 0.9746
+Giá trị p-value: 0.0010
